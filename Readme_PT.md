@@ -88,3 +88,13 @@ Não tem como objetivo:
 
 ## Aviso Legal
 Este projeto possui fins **educacionais e de portfólio**, não representando decisões oficiais de scouting ou recrutamento.
+
+
+/data
+  └── yuri_alberto_career.csv
+
+/sql
+  ├── create_table.sql
+  ├── exploratory_queries.sql
+
+
